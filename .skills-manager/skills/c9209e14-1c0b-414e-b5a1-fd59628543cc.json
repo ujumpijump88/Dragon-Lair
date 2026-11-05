@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c9209e14-1c0b-414e-b5a1-fd59628543cc",
+  "path": "middle-school-tutor",
+  "path_key": "middle-school-tutor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

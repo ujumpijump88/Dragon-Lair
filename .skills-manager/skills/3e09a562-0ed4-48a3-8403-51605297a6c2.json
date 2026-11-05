@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3e09a562-0ed4-48a3-8403-51605297a6c2",
+  "path": "agency-agents-zh-skill",
+  "path_key": "agency-agents-zh-skill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

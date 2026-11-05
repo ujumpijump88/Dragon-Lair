@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d7ac785c-8881-4c43-9ee0-b69a18d412ea",
+  "path": "hermes-synology-nas",
+  "path_key": "hermes-synology-nas",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

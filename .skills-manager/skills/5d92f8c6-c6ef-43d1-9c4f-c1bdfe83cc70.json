@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5d92f8c6-c6ef-43d1-9c4f-c1bdfe83cc70",
+  "path": "hermes-kanban-workflows",
+  "path_key": "hermes-kanban-workflows",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

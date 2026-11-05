@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9a542587-794a-4ae6-a6bb-7adeabee2803",
+  "path": "local-dev-services",
+  "path_key": "local-dev-services",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

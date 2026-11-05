@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c850ebff-41d0-49a3-81dc-31438c976eb7",
+  "path": "session-librarian",
+  "path_key": "session-librarian",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,12 @@
+
+.DS_Store
+Thumbs.db
+*.tmp
+.skills-manager.lock
+__pycache__/
+*.pyc
+
+# skills-manager: oversized skills excluded from backup (auto-managed)
+/qoderwork-ppt/
+/.skills-manager/skills/a8a62803-7c92-4891-ab23-9ddcfef3023a.json
+# skills-manager: end oversized skills

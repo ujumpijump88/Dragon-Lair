@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5cb1db2e-7eee-4b85-acf0-2e2edf6e9024",
+  "path": "macos-vision-ocr",
+  "path_key": "macos-vision-ocr",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

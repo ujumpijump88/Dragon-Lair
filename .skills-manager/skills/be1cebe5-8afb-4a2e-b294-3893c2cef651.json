@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "be1cebe5-8afb-4a2e-b294-3893c2cef651",
+  "path": "market-skill-installation",
+  "path_key": "market-skill-installation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3e069be6-2ebf-412c-9a8f-8b47289da27b",
+  "path": "synology-docker-deployment",
+  "path_key": "synology-docker-deployment",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

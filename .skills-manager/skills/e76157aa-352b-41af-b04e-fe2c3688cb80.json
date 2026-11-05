@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e76157aa-352b-41af-b04e-fe2c3688cb80",
+  "path": "food-tech-domain",
+  "path_key": "food-tech-domain",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

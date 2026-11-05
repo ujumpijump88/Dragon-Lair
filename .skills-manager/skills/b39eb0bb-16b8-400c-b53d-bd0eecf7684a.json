@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b39eb0bb-16b8-400c-b53d-bd0eecf7684a",
+  "path": "photo-work-grading",
+  "path_key": "photo-work-grading",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

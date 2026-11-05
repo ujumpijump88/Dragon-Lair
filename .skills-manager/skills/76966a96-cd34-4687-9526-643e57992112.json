@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "76966a96-cd34-4687-9526-643e57992112",
+  "path": "hermes-gateway-ops",
+  "path_key": "hermes-gateway-ops",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "851e3442-f4db-43f7-ab33-404c7288f988",
+  "path": "macos-app-connectivity",
+  "path_key": "macos-app-connectivity",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

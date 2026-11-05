@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "feec8a36-5bb3-4aa7-ac80-32eef48617a7",
+  "path": "hermes-nas-deployment",
+  "path_key": "hermes-nas-deployment",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

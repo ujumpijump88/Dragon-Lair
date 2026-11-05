@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0a84fe33-5aeb-46b1-90d2-307438c51c7f",
+  "path": "pages-to-text",
+  "path_key": "pages-to-text",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

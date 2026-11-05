@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d21ef87a-a3c3-4295-99b8-c829540de3c6",
+  "path": "wps-365-integration",
+  "path_key": "wps-365-integration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

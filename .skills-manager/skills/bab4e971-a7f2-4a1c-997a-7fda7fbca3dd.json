@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bab4e971-a7f2-4a1c-997a-7fda7fbca3dd",
+  "path": "interactive-cli-driving",
+  "path_key": "interactive-cli-driving",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

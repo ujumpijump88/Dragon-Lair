@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8ccd99e3-1acd-41ce-9e87-993e245a9066",
+  "path": "ppt-generation",
+  "path_key": "ppt-generation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a728dc5d-f5d9-455b-9891-36d1ffed8a7e",
+  "path": "deepseek-harness",
+  "path_key": "deepseek-harness",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

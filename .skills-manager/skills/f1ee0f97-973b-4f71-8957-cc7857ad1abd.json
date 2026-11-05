@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f1ee0f97-973b-4f71-8957-cc7857ad1abd",
+  "path": "node-pptx-authoring",
+  "path_key": "node-pptx-authoring",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

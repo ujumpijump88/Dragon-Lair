@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4d0a59a4-e261-4092-b981-87375481f55d",
+  "path": "product-price-monitor",
+  "path_key": "product-price-monitor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

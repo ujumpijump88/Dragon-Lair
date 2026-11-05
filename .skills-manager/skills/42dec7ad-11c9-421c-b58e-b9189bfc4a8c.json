@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "42dec7ad-11c9-421c-b58e-b9189bfc4a8c",
+  "path": "sdlc-review",
+  "path_key": "sdlc-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

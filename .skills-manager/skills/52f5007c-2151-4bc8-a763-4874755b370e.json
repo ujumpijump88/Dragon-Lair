@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "52f5007c-2151-4bc8-a763-4874755b370e",
+  "path": "hindsight-architect",
+  "path_key": "hindsight-architect",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

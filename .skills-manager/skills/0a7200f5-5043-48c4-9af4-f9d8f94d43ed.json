@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0a7200f5-5043-48c4-9af4-f9d8f94d43ed",
+  "path": "tutor-math",
+  "path_key": "tutor-math",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

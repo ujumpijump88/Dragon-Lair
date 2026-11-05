@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "923ad36c-55fa-449e-9242-2c31a80af2a3",
+  "path": "tutor-chemistry",
+  "path_key": "tutor-chemistry",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

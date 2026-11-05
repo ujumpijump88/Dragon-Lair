@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f7dc012c-eaed-4683-bd6d-3053ab78fcbd",
+  "path": "nano-pdf",
+  "path_key": "nano-pdf",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,40 @@
+# Hermes Agent gateway + dashboard on Synology Container Manager.
+# Create as a Container Manager 项目 (Project) pointing at /volume1/docker/hermes.
+# Replace HERMES_UID/HERMES_GID with the values from `id` for the NAS admin user.
+services:
+  hermes:
+    # If Docker Hub is unreachable, pull a mirror-prefixed path and re-tag first:
+    #   docker pull docker.m.daocloud.io/nousresearch/hermes-agent:latest
+    #   docker tag  docker.m.daocloud.io/nousresearch/hermes-agent:latest nousresearch/hermes-agent:latest
+    image: nousresearch/hermes-agent:latest
+    container_name: hermes
+    restart: unless-stopped
+    command: gateway run
+    ports:
+      - "9119:9119"   # dashboard (only served when HERMES_DASHBOARD=1)
+      # - "8642:8642" # OpenAI-compatible API server; leave closed unless another app consumes it
+    volumes:
+      - /volume1/docker/hermes:/opt/data
+    environment:
+      - HERMES_DASHBOARD=1
+      - TZ=Asia/Shanghai
+      - HERMES_UID=1026          # from `ssh nas id`
+      - HERMES_GID=100           # from `ssh nas id`
+      # Non-loopback dashboard binding REQUIRES auth; it will refuse to serve without it.
+      - HERMES_DASHBOARD_BASIC_AUTH_USERNAME=hermes
+      - HERMES_DASHBOARD_BASIC_AUTH_PASSWORD=CHANGE_ME_random
+      # The dashboard reaches the gateway through the API server, so enable it - bound to
+      # loopback inside the container and NOT published to the host (no "8642:8642" above).
+      - API_SERVER_ENABLED=true
+      - API_SERVER_HOST=127.0.0.1
+      # Put API_SERVER_KEY in exactly ONE place: the data dir's .env
+      #   echo "API_SERVER_KEY=$(openssl rand -hex 32)" >> /volume1/docker/hermes/.env
+      # A .env value OVERRIDES the container environment, so setting it here as well makes
+      # every API call fail with "Invalid gateway API key" and no hint as to which copy won.
+    # Memory cap matters on 2 GB-class NAS units. Container Manager may ignore this key;
+    # if so, set the limit in the container's advanced settings in the GUI instead.
+    mem_limit: 1g
+    # Do NOT add "cpus:" - DSM kernels expose no CFS CPU quota and container creation fails
+    # with "NanoCPUs can not be set, as your kernel does not support CPU CFS scheduler".
+    # Chromium-based browser tooling needs extra shared memory; omit or keep small on low-RAM units.
+    # shm_size: 1g

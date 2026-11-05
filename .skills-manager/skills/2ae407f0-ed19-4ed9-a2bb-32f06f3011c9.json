@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2ae407f0-ed19-4ed9-a2bb-32f06f3011c9",
+  "path": "ui-reference-scraping",
+  "path_key": "ui-reference-scraping",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

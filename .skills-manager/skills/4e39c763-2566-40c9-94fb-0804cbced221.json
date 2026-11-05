@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4e39c763-2566-40c9-94fb-0804cbced221",
+  "path": "wps365",
+  "path_key": "wps365",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

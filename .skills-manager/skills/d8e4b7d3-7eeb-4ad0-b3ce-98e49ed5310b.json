@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d8e4b7d3-7eeb-4ad0-b3ce-98e49ed5310b",
+  "path": "macos-file-open",
+  "path_key": "macos-file-open",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

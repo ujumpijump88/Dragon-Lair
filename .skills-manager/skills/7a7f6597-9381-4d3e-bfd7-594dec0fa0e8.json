@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7a7f6597-9381-4d3e-bfd7-594dec0fa0e8",
+  "path": "ponytail-audit",
+  "path_key": "ponytail-audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

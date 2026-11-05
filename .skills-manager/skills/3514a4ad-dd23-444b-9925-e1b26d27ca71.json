@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3514a4ad-dd23-444b-9925-e1b26d27ca71",
+  "path": "scaffold-exercises",
+  "path_key": "scaffold-exercises",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

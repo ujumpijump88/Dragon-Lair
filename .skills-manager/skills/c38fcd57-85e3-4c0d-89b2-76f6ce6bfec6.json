@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c38fcd57-85e3-4c0d-89b2-76f6ce6bfec6",
+  "path": "web-ui-restyle",
+  "path_key": "web-ui-restyle",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4af69758-ef5a-4fcd-9822-46f3001b6983",
+  "path": "wps-cloud-docs",
+  "path_key": "wps-cloud-docs",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

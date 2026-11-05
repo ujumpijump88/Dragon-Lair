@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8842a7b3-e822-40ca-8232-c8faa272f527",
+  "path": "merge-reconciler",
+  "path_key": "merge-reconciler",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

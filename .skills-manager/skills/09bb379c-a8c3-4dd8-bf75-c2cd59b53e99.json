@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "09bb379c-a8c3-4dd8-bf75-c2cd59b53e99",
+  "path": "china-textbook",
+  "path_key": "china-textbook",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

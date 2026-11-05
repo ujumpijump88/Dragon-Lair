@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0ab26f90-dde0-4744-9db9-d8c5870b4fa3",
+  "path": "hindsight-memory-backend",
+  "path_key": "hindsight-memory-backend",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

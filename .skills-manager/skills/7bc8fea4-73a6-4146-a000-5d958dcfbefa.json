@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7bc8fea4-73a6-4146-a000-5d958dcfbefa",
+  "path": "tutor-chinese",
+  "path_key": "tutor-chinese",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

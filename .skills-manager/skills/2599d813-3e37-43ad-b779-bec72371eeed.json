@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2599d813-3e37-43ad-b779-bec72371eeed",
+  "path": "skill-provenance",
+  "path_key": "skill-provenance",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a380a914-2e5e-4a8c-b0fb-963ef39b981c",
+  "path": "hindsight-local",
+  "path_key": "hindsight-local",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

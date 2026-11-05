@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d54679b9-2b9f-48fd-9605-ea8a19c0ca31",
+  "path": "hermes-messaging-platforms",
+  "path_key": "hermes-messaging-platforms",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

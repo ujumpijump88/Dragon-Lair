@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cda8e764-c7dd-4b89-b5d5-d70f42563561",
+  "path": "tutor-physics",
+  "path_key": "tutor-physics",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

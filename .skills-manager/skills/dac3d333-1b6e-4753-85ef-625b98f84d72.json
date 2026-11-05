@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dac3d333-1b6e-4753-85ef-625b98f84d72",
+  "path": "python-web-delivery-audit",
+  "path_key": "python-web-delivery-audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

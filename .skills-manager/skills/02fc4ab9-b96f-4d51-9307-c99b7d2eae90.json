@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "02fc4ab9-b96f-4d51-9307-c99b7d2eae90",
+  "path": "teams-meeting-pipeline",
+  "path_key": "teams-meeting-pipeline",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

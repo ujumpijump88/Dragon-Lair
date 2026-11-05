@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e47449e1-22f3-4684-a555-9110b0436b4f",
+  "path": "hermes-skill-installation",
+  "path_key": "hermes-skill-installation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

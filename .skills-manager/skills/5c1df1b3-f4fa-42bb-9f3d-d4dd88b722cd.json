@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5c1df1b3-f4fa-42bb-9f3d-d4dd88b722cd",
+  "path": "wps-airscript-bridge",
+  "path_key": "wps-airscript-bridge",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

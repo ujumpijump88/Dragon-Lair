@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2321b8e7-8b84-4494-838c-bad298df1914",
+  "path": "internal-tool-deploy",
+  "path_key": "internal-tool-deploy",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

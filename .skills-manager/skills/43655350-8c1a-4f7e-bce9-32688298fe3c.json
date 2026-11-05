@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "43655350-8c1a-4f7e-bce9-32688298fe3c",
+  "path": "openpyxl-workbooks",
+  "path_key": "openpyxl-workbooks",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

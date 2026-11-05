@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4fefab70-0059-4445-9cdb-8fd6ebcf3791",
+  "path": "kanban-orchestration",
+  "path_key": "kanban-orchestration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "eedc6206-7b18-4186-9e9c-3c2dd282f3be",
+  "path": "building-rule-engine-cookbook",
+  "path_key": "building-rule-engine-cookbook",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

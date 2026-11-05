@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ac25ff69-0ef1-42a4-b251-8e4072efebfb",
+  "path": "china-network-setup",
+  "path_key": "china-network-setup",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

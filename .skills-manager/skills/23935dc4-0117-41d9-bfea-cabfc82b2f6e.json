@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "23935dc4-0117-41d9-bfea-cabfc82b2f6e",
+  "path": "adversarial-ux-test",
+  "path_key": "adversarial-ux-test",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
